@@ -33,7 +33,7 @@ The recommendation we would propose at this point of time for the Moozeek is tha
 * Dig further into keyword predicitions for moods in regards to genre.
 
 
-
+* Corrected interactive scatterplot link: http://localhost:8888/files/Downloads/Project_3_ldr_Metaln_Sentiment_Analysis.html?_xsrf=2%7C6e5c73ca%7C201cad0dfde995af6d8bc91fb8a64d37%7C1650650845
 
 
 ### Resources:
